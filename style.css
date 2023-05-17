@@ -1,0 +1,44 @@
+body
+{
+    font-family: cursive;
+}
+
+.header_div
+{
+    color: red;
+    background-color: white;
+}
+
+.header_div p{
+    color: gray;
+    font-size: 12px;
+    letter-spacing: 2px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+
+.main_div
+{
+    background-color: wheat;
+}
+
+.main_div button
+{
+    margin-top: 30px;
+    width: 130px;
+    letter-spacing: 3px;
+    font-weight: bolder;
+}
+.copy_right_footer
+{
+    border: 1px solid red;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+    font-size: 18px;
+    line-height: 3;
+    text-shadow: 3px 9px 5px rgb(25, 5, 2);
+    color: rgb(0, 255, 106);
+    background-color: white;
+}
